@@ -1,3 +1,6 @@
 # binは空ディレクトリとする
 /bin/*
 !/bin/.gitkeep
+
+# vscodeのワークスペースは対象外とする
+*.code-workspace

@@ -6,9 +6,22 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
             "name": "Hello",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap01.Hello",
+            "projectName": "selfjava_e6fb5b9c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayJagged",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap02.ArrayJagged",
             "projectName": "selfjava_e6fb5b9c"
         },
         {
@@ -17,12 +30,6 @@
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap02.Const",
             "projectName": "selfjava_e6fb5b9c"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
         }
     ]
 }

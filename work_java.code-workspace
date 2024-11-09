@@ -9,7 +9,7 @@
 	],
 	"settings": {
 		"vscode-decompiler.default.decompiler.selected": "ghidra",
-		"vscode-decompiler.tool.ghidra.path": "/home/shusuke/work/ghidra_11.2_PUBLIC/ghidraRun",
+		"vscode-decompiler.tool.ghidra.path": "/home/shusuke/work/ghidra_11.2.1_PUBLIC/ghidraRun",
 		"files.eol": "\n",
 		"files.encoding": "utf8",
 		"workbench.iconTheme": "vscode-icons",

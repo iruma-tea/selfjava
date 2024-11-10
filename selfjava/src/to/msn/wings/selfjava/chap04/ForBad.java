@@ -1,0 +1,10 @@
+package to.msn.wings.selfjava.chap04;
+
+public class ForBad {
+    public static void main(String[] args) {
+        int i;
+        for (i = 0; i < 6; i++) {
+            System.out.println(i + "番目のループです。");
+        }
+    }
+}

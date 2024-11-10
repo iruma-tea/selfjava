@@ -8,6 +8,7 @@
             "type": "java",
             "name": "Current File",
             "request": "launch",
+            "args": ["太郎", "次郎", "三郎"],
             "mainClass": "${file}"
         },
         {

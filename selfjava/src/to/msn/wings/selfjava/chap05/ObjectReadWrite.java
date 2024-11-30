@@ -2,7 +2,6 @@ package to.msn.wings.selfjava.chap05;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.io.IOError;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;

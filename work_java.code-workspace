@@ -8,8 +8,6 @@
 		}
 	],
 	"settings": {
-		"vscode-decompiler.default.decompiler.selected": "ghidra",
-		"vscode-decompiler.tool.ghidra.path": "/home/shusuke/work/ghidra_11.2.1_PUBLIC/ghidraRun",
 		"files.eol": "\n",
 		"files.encoding": "utf8",
 		"workbench.iconTheme": "vscode-icons",
@@ -18,6 +16,10 @@
 			"editor.suggest.snippetsPreventQuickSuggestions": false,
 			"editor.formatOnSave": true,
 			"editor.defaultFormatter": "esbenp.prettier-vscode",
-		}
+		},
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"selfjava/selfjava/lib/cfr-0.152.jar"
+		]
 	}
 }

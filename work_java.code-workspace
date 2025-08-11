@@ -15,7 +15,7 @@
 		"[java]": {
 			"editor.suggest.snippetsPreventQuickSuggestions": false,
 			"editor.formatOnSave": true,
-			"editor.defaultFormatter": "esbenp.prettier-vscode",
+			"editor.defaultFormatter": "redhat.java",
 		},
 		"java.project.referencedLibraries": [
 			"lib/**/*.jar",

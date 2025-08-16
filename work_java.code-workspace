@@ -18,8 +18,7 @@
 			"editor.defaultFormatter": "redhat.java",
 		},
 		"java.project.referencedLibraries": [
-			"lib/**/*.jar",
-			"selfjava/selfjava/lib/cfr-0.152.jar"
+			"/home/shusuke/work_java/selfjava/selfjava/lib/cfr-0.152.jar"
 		],
 		"java.contentProvider.preferred": "crf",
 		"java.decompiler.cfr": {
@@ -34,6 +33,9 @@
 				"sugarenums": "true",
 				"synthetic": "false"
 			}
-		}
+		},
+		"java.project.sourcePaths": [
+			"selfjava/selfjava/src"
+		]
 	}
 }

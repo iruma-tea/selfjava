@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CompareInteger",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CompareInteger",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CompareArrayMethod",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CompareArrayMethod",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CompareArraysDeep",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CompareArraysDeep",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CompareArray",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CompareArray",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CompareDouble",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CompareDouble",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CompareBigDecimal",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CompareBigDecimal",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CompareFloat",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CompareFloat",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CompareString",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CompareString",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CompareStringBuilder",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CompareStringBuilder",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Substitution",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.Substitution",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CalcBigDecimal",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CalcBigDecimal",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "CalcFloat",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CalcFloat",

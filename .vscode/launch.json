@@ -1,0 +1,63 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PCast",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap02.practice.PCast",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Practice3",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap02.practice.Practice3",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Practice1",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap02.practice.Practice1",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayJagged",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap02.ArrayJagged",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Const",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap02.Const",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "selfjava/HelloSimple",
+            "request": "launch",
+            "mainClass": "selfjava/HelloSimple",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap01.Hello",
+            "projectName": "selfjava_60fb4e21"
+        }
+    ]
+}

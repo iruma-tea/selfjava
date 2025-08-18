@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "vscode-decompiler.tool.ghidra.path": "/home/shusuke/tools/ghidra_11.4.1_PUBLIC/support/analyzeHeadless",
+    "vscode-decompiler.default.decompiler.selected": "ghidra",
+    "java.jdt.ls.java.home": "/home/shusuke/.local/share/mise/installs/java/openjdk-24.0.2"
+}

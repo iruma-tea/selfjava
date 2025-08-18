@@ -1,0 +1,5 @@
+# binは空ディレクトリとする
+/bin/*
+
+# vscodeのワークスペースは対象外とする
+*.code-workspace

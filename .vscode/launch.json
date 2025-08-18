@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalcFloat",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CalcFloat",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "DivZero",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.DivZero",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "DivInteger",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.DivInteger",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Increment",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.Increment",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ConcatBuilder",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.ConcatBuilder",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ConcatString",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.ConcatString",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "NoNumber",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.NoNumber",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "PCast",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap02.practice.PCast",

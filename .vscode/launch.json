@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PIf",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.practice.PIf",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "SwitchWhen",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.SwitchWhen",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "SwitchExpression",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.SwitchExpression",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "SwitchMatch",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.SwitchMatch",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "SwitchExp",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap04.SwitchExp",

@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchExp",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.SwitchExp",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "SwitchFall",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.SwitchFall",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "SwitchBasic",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.SwitchBasic",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "SwitchPre",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.SwitchPre",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "IfOmit3",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.IfOmit3",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "IfOmit2",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.IfOmit2",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "IfOmit",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.IfOmit",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "IfNest",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.IfNest",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "IfElse2",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.IfElse2",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.IfElse",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "IfBasic2",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.IfBasic2",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "IfBasic",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap04.IfBasic",

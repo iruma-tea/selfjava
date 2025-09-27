@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Practice2",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.practice.Practice2",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Condition",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap03.Condition",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "CompareInteger",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap03.CompareInteger",

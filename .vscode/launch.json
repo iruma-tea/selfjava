@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IfBasic",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.IfBasic",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "Practice2",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap03.practice.Practice2",

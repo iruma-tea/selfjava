@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WhileOmit",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.WhileOmit",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "WhileDo",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.WhileDo",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "WhileBasic",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.WhileBasic",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "PIf",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap04.practice.PIf",

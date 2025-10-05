@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForBad",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.ForBad",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ForBasic",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.ForBasic",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "WhileOmit",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap04.WhileOmit",

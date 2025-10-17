@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Foreach",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.Foreach",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ForeachFor",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.ForeachFor",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ForComma2",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.ForComma2",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ForComma",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.ForComma",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ForBlock",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.ForBlock",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ForFloat",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.ForFloat",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "ForBad",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap04.ForBad",

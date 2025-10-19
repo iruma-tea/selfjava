@@ -1,0 +1,11 @@
+package to.msn.wings.selfjava.chap05;
+
+public class StrSubstring {
+    public static void main(String[] args) {
+        var str = "WINGプロジェクト";
+        System.out.println(str.substring(5, 7));
+        System.out.println(str.substring(5, 2));
+        System.out.println(str.substring(-5));
+        System.out.println(str.substring(15));
+    }
+}

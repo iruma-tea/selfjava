@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RegMatcher",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegMatcher",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegMatches",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegMatches",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "PSprit",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap05.practice.PSprit",

@@ -6,6 +6,67 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Practice5",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.practice.Practice5",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Practice4",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.practice.Practice4",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Practice3",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.practice.Practice3",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Practice2",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.practice.Practice2",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Practice1",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.practice.Practice1",
+            "args": [
+                "1",
+                "2",
+                "3"
+            ],
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "BreakNest2",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.BreakNest2",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "BreakNest",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.BreakNest",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.Continue",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "Break",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap04.Break",

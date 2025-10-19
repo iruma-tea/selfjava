@@ -6,6 +6,32 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.Break",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "PFor",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.practice.PFor",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CommandArgs",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap04.CommandArgs",
+            "args": [
+                "太郎",
+                "次郎",
+                "三郎"
+            ],
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "Foreach",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap04.Foreach",

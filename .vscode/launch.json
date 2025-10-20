@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PReplace",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.practice.PReplace",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "PMatches",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.practice.PMatches",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegSplit",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegSplit",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegReplaceNamed",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegReplaceNamed",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegReplace",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegReplace",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegReplaceAll",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegReplaceAll",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegUnicodeProp",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegUnicodeProp",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegRead",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegRead",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegNoRef",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegNoRef",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegAfter",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegAfter",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegMatcherNamed",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegMatcherNamed",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegLongest",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegLongest",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegSingle",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegSingle",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegMulti",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegMulti",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RegIgnore",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegIgnore",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "RegMatcher",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RegMatcher",

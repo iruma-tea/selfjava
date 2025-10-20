@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ObjectReadWrite",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.ObjectReadWrite",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "BinaryReadWrite",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.BinaryReadWrite",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "StreamRead",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap05.StreamRead",

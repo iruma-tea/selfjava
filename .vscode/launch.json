@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatNumber",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.FormatNumber",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "RandomExample",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.RandomExample",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "BigNumber2",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.BigNumber2",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "BigNumber",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.BigNumber",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "MathEx",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.MathEx",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "ObjectReadWrite",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap05.ObjectReadWrite",

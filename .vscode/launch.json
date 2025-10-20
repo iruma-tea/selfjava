@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StreamRead",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.StreamRead",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "FileWrite",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.FileWrite",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "StreamWrite",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.StreamWrite",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "PAdd",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.practice.PAdd",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "PDateTimeNow",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.practice.PDateTimeNow",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeToInstant",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeToInstant",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeFromCalender",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeFromCalender",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CalUse",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.CalUse",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimePlus2",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimePlus2",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimePlus",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimePlus",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeBetween",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeBetween",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeJapanese",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeJapanese",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeFormatLocale",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeFormatLocale",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimePattern",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimePattern",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeFormat",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeFormat",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeGet2",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeGet2",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeGet",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeGet",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeEquals",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeEquals",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeParse",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeParse",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeOf",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeOf",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "TimeNow",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.TimeNow",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "PReplace",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap05.practice.PReplace",

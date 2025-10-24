@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HttpPost",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.HttpPost",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "HttpBasic",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.HttpBasic",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "FileProcess",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.FileProcess",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "NormalizeBasic",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.NormalizeBasic",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDeep",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.ArrayDeep",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayShallow",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.ArrayShallow",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "ArraysExample",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap05.ArraysExample",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "FormatNumber",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap05.FormatNumber",

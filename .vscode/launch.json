@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CollIterator",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap06.CollIterator",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CollForeach",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap06.CollForeach",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CollUnmodifyOf",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap06.CollUnmodifyOf",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
+            "name": "CollInitial",
+            "request": "launch",
+            "mainClass": "selfjava/to.msn.wings.selfjava.chap06.CollInitial",
+            "projectName": "selfjava_60fb4e21"
+        },
+        {
+            "type": "java",
             "name": "HttpPost",
             "request": "launch",
             "mainClass": "selfjava/to.msn.wings.selfjava.chap05.HttpPost",
